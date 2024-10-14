@@ -37,15 +37,15 @@
     },
     {
         "type": "printer",
-        "path": "printer/Original Prusa MK4 Input Shaper 0.4 nozzle - Copy.ini",
-        "id": "Original Prusa MK4 Input Shaper 0.4 nozzle - Copy",
-        "label": "Original Prusa MK4 Input Shaper 0.4 nozzle - Copy"
+        "path": "printer/Original Prusa MK4 Input Shaper 0.4 nozzle.ini",
+        "id": "Original Prusa MK4 Input Shaper 0.4 nozzle",
+        "label": "Original Prusa MK4 Input Shaper 0.4 nozzle"
     },
     {
         "type": "printer",
-        "path": "printer/Original Prusa i3 MK3S & MK3S+ - Copy.ini",
-        "id": "Original Prusa i3 MK3S & MK3S+ - Copy",
-        "label": "Original Prusa i3 MK3S & MK3S+ - Copy"
+        "path": "printer/Original Prusa i3 MK3S & MK3S+.ini",
+        "id": "Original Prusa i3 MK3S & MK3S+",
+        "label": "Original Prusa i3 MK3S & MK3S+"
     },
     {
         "type": "printer",
@@ -115,9 +115,9 @@
     },
     {
         "type": "print",
-        "path": "print/0.20mm SPEED @MK4IS 0.4 - Copy.ini",
-        "id": "0.20mm SPEED @MK4IS 0.4 - Copy",
-        "label": "0.20mm SPEED @MK4IS 0.4 - Copy"
+        "path": "print/0.20mm SPEED @MK4IS 0.4.ini",
+        "id": "0.20mm SPEED @MK4IS 0.4",
+        "label": "0.20mm SPEED @MK4IS 0.4"
     },
     {
         "type": "print",
@@ -151,9 +151,9 @@
     },
     {
         "type": "print",
-        "path": "print/0.20mm SPEED @MK3 - Copy.ini",
-        "id": "0.20mm SPEED @MK3 - Copy",
-        "label": "0.20mm SPEED @MK3 - Copy"
+        "path": "print/0.20mm SPEED @MK3.ini",
+        "id": "0.20mm SPEED @MK3",
+        "label": "0.20mm SPEED @MK3"
     },
     {
         "type": "print",
