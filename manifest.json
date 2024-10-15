@@ -92,8 +92,8 @@
     {
         "type": "printer",
         "path": "printer/Anycubic Chiron.ini",
-        "id": "Anycubic Chiron",
-        "label": "Anycubic Chiron"
+        "id": "Anycubic Chiron 0.4mm nozzle",
+        "label": "Anycubic Chiron 0.4mm nozzle"
     },
     {
         "type": "printer",
