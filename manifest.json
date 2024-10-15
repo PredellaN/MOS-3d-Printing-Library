@@ -2,169 +2,146 @@
     {
         "type": "filament",
         "path": "filament/Concrete.ini",
-        "id": "Concrete",
         "label": "Concrete"
     },
     {
         "type": "filament",
         "path": "filament/Generic PETG.ini",
-        "id": "Generic PETG",
         "label": "Generic PETG"
     },
     {
         "type": "filament",
         "path": "filament/Generic PLA.ini",
-        "id": "Generic PLA",
         "label": "Generic PLA"
     },
     {
         "type": "filament",
         "path": "filament/PLA Wood @Template.ini",
-        "id": "PLA Wood @Template",
         "label": "PLA Wood @Template"
     },
     {
         "type": "printer",
         "path": "printer/Creality CR-M4 (0.6 mm nozzle).ini",
-        "id": "Creality CR-M4 0.6mm nozzle",
-        "label": "Creality CR-M4 0.6mm nozzle"
+        "label": "Creality CR-M4 (0.6 mm nozzle)"
     },
     {
         "type": "printer",
         "path": "printer/Elegoo Neptune-3 Max 0.8mm nozzle.ini",
-        "id": "Elegoo Neptune-3 Max 0.8mm nozzle",
         "label": "Elegoo Neptune-3 Max 0.8mm nozzle"
     },
     {
         "type": "printer",
-        "path": "printer/Original Prusa MK4 Input Shaper 0.4 nozzle.ini",
-        "id": "Original Prusa MK4 Input Shaper 0.4mm nozzle",
-        "label": "Original Prusa MK4 Input Shaper 0.4mm nozzle"
+        "path": "printer/Original Prusa MK4 Input Shaper 0.4 nozzle - Copy.ini",
+        "label": "Original Prusa MK4 Input Shaper 0.4 nozzle - Copy"
     },
     {
         "type": "printer",
-        "path": "printer/Original Prusa i3 MK3S & MK3S+.ini",
-        "id": "Original Prusa i3 MK3S & MK3S+ 0.4mm nozzle",
-        "label": "Original Prusa i3 MK3S & MK3S+ 0.4mm nozzle"
+        "path": "printer/Original Prusa i3 MK3S & MK3S+ - Copy.ini",
+        "label": "Original Prusa i3 MK3S & MK3S+ - Copy"
     },
     {
         "type": "printer",
         "path": "printer/Concrete Printer.ini",
-        "id": "Concrete Printer",
         "label": "Concrete Printer"
     },
     {
         "type": "printer",
         "path": "printer/Creality CR-M4 (0.8 mm nozzle).ini",
-        "id": "Creality CR-M4 0.8mm nozzle",
-        "label": "Creality CR-M4 0.8mm nozzle"
+        "label": "Creality CR-M4 (0.8 mm nozzle)"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa MK4 Bulldozer Input Shaper 0.6 nozzle.ini",
-        "id": "Original Prusa MK4 Bulldozer Input Shaper 0.6mm nozzle",
-        "label": "Original Prusa MK4 Bulldozer Input Shaper 0.6mm nozzle"
+        "label": "Original Prusa MK4 Bulldozer Input Shaper 0.6 nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa MK4 Input Shaper 0.6 nozzle.ini",
-        "id": "Original Prusa MK4 Input Shaper 0.6mm nozzle",
-        "label": "Original Prusa MK4 Input Shaper 0.6mm nozzle"
+        "label": "Original Prusa MK4 Input Shaper 0.6 nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa i3 MK3S & MK3S+ 1.8 nozzle.ini",
-        "id": "Original Prusa i3 MK3S & MK3S+ 1.8mm nozzle",
-        "label": "Original Prusa i3 MK3S & MK3S+ 1.8mm nozzle"
+        "label": "Original Prusa i3 MK3S & MK3S+ 1.8 nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Elegoo OrangeStorm Giga 0.6mm nozzle.ini",
-        "id": "Elegoo OrangeStorm Giga 0.6mm nozzle",
         "label": "Elegoo OrangeStorm Giga 0.6mm nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Creality CR-M4 (0.4 mm nozzle).ini",
-        "id": "Creality CR-M4 0.4mm nozzle",
-        "label": "Creality CR-M4 0.4mm nozzle"
+        "label": "Creality CR-M4 (0.4 mm nozzle)"
     },
     {
         "type": "printer",
         "path": "printer/Anycubic Chiron.ini",
-        "id": "Anycubic Chiron 0.4mm nozzle",
-        "label": "Anycubic Chiron 0.4mm nozzle"
+        "label": "Anycubic Chiron"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa MK4 1.8 nozzle.ini",
-        "id": "Original Prusa MK4 1.8 nozzle",
-        "label": "Original Prusa MK4 1.8mm nozzle"
+        "label": "Original Prusa MK4 1.8 nozzle"
     },
     {
         "type": "print",
         "path": "print/0.50 mm NORMAL (0.8 mm nozzle) @CREALITY.ini",
-        "id": "0.50 mm NORMAL @CREALITY 0.8",
-        "label": "0.50 mm NORMAL @CREALITY 0.8"
+        "label": "0.50 mm NORMAL (0.8 mm nozzle) @CREALITY"
     },
     {
         "type": "print",
         "path": "print/0.30 mm STANDARD (0.6 mm nozzle) @CREALITY.ini",
-        "id": "0.30mm STANDARD @CREALITY 0.6",
-        "label": "0.30mm STANDARD @CREALITY 0.6"
+        "label": "0.30 mm STANDARD (0.6 mm nozzle) @CREALITY"
     },
     {
         "type": "print",
-        "path": "print/0.20mm SPEED @MK4IS 0.4.ini",
-        "id": "0.20mm SPEED @MK4IS 0.4",
-        "label": "0.20mm SPEED @MK4IS 0.4"
+        "path": "print/0.20mm SPEED @MK4IS 0.4 - Copy.ini",
+        "label": "0.20mm SPEED @MK4IS 0.4 - Copy"
     },
     {
         "type": "print",
         "path": "print/20mm CONCRETE.ini",
-        "id": "20mm CONCRETE",
         "label": "20mm CONCRETE"
     },
     {
         "type": "print",
+        "path": "print/0.10mm FAST DETAIL @MK4IS 0.4 - Copy.ini",
+        "label": "0.10mm FAST DETAIL @MK4IS 0.4 - Copy"
+    },
+    {
+        "type": "print",
         "path": "print/0.20mm SPEED @MK4BDZRIS 0.6.ini",
-        "id": "0.20mm SPEED @MK4BDZRIS 0.6",
         "label": "0.20mm SPEED @MK4BDZRIS 0.6"
     },
     {
         "type": "print",
         "path": "print/0.30 mm STANDARD (0.6 mm nozzle) @GIGA.ini",
-        "id": "0.30mm STANDARD @GIGA 0.6",
-        "label": "0.30mm STANDARD @GIGA 0.6"
+        "label": "0.30 mm STANDARD (0.6 mm nozzle) @GIGA"
     },
     {
         "type": "print",
         "path": "print/0.25mm SPEED @MK4BDZRIS 0.6.ini",
-        "id": "0.25mm SPEED @MK4BDZRIS 0.6",
         "label": "0.25mm SPEED @MK4BDZRIS 0.6"
     },
     {
         "type": "print",
         "path": "print/0.32mm SPEED @MK4BDZRIS 0.6.ini",
-        "id": "0.32mm SPEED @MK4BDZRIS 0.6",
         "label": "0.32mm SPEED @MK4BDZRIS 0.6"
     },
     {
         "type": "print",
-        "path": "print/0.20mm SPEED @MK3.ini",
-        "id": "0.20mm SPEED @MK3 0.4",
-        "label": "0.20mm SPEED @MK3 0.4"
+        "path": "print/0.20mm SPEED @MK3 - Copy.ini",
+        "label": "0.20mm SPEED @MK3 - Copy"
     },
     {
         "type": "print",
         "path": "print/0.30mm SPEED @MK4IS 0.6.ini",
-        "id": "0.30mm SPEED @MK4IS 0.6",
         "label": "0.30mm SPEED @MK4IS 0.6"
     },
     {
         "type": "print",
         "path": "print/1mm QUALITY @MK4 1.8 nozzle.ini",
-        "id": "1mm QUALITY @MK4 1.8",
-        "label": "1mm QUALITY @MK4 1.8"
+        "label": "1mm QUALITY @MK4 1.8 nozzle"
     }
 ]
