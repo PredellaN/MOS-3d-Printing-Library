@@ -26,8 +26,8 @@
     {
         "type": "printer",
         "path": "printer/Creality CR-M4 (0.6 mm nozzle).ini",
-        "id": "Creality CR-M4 (0.6 mm nozzle)",
-        "label": "Creality CR-M4 (0.6 mm nozzle)"
+        "id": "Creality CR-M4 0.6mm nozzle",
+        "label": "Creality CR-M4 0.6mm nozzle"
     },
     {
         "type": "printer",
@@ -38,8 +38,8 @@
     {
         "type": "printer",
         "path": "printer/Original Prusa MK4 Input Shaper 0.4 nozzle.ini",
-        "id": "Original Prusa MK4 Input Shaper 0.4 nozzle",
-        "label": "Original Prusa MK4 Input Shaper 0.4 nozzle"
+        "id": "Original Prusa MK4 Input Shaper 0.4mm nozzle",
+        "label": "Original Prusa MK4 Input Shaper 0.4mm nozzle"
     },
     {
         "type": "printer",
@@ -56,26 +56,26 @@
     {
         "type": "printer",
         "path": "printer/Creality CR-M4 (0.8 mm nozzle).ini",
-        "id": "Creality CR-M4 (0.8 mm nozzle)",
-        "label": "Creality CR-M4 (0.8 mm nozzle)"
+        "id": "Creality CR-M4 0.8mm nozzle",
+        "label": "Creality CR-M4 0.8mm nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa MK4 Bulldozer Input Shaper 0.6 nozzle.ini",
-        "id": "Original Prusa MK4 Bulldozer Input Shaper 0.6 nozzle",
-        "label": "Original Prusa MK4 Bulldozer Input Shaper 0.6 nozzle"
+        "id": "Original Prusa MK4 Bulldozer Input Shaper 0.6mm nozzle",
+        "label": "Original Prusa MK4 Bulldozer Input Shaper 0.6mm nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa MK4 Input Shaper 0.6 nozzle.ini",
-        "id": "Original Prusa MK4 Input Shaper 0.6 nozzle",
-        "label": "Original Prusa MK4 Input Shaper 0.6 nozzle"
+        "id": "Original Prusa MK4 Input Shaper 0.6mm nozzle",
+        "label": "Original Prusa MK4 Input Shaper 0.6mm nozzle"
     },
     {
         "type": "printer",
         "path": "printer/Original Prusa i3 MK3S & MK3S+ 1.8 nozzle.ini",
-        "id": "Original Prusa i3 MK3S & MK3S+ 1.8 nozzle",
-        "label": "Original Prusa i3 MK3S & MK3S+ 1.8 nozzle"
+        "id": "Original Prusa i3 MK3S & MK3S+ 1.8mm nozzle",
+        "label": "Original Prusa i3 MK3S & MK3S+ 1.8mm nozzle"
     },
     {
         "type": "printer",
@@ -86,8 +86,8 @@
     {
         "type": "printer",
         "path": "printer/Creality CR-M4 (0.4 mm nozzle).ini",
-        "id": "Creality CR-M4 (0.4 mm nozzle)",
-        "label": "Creality CR-M4 (0.4 mm nozzle)"
+        "id": "Creality CR-M4 0.4mm nozzle",
+        "label": "Creality CR-M4 0.4mm nozzle"
     },
     {
         "type": "printer",
@@ -99,19 +99,19 @@
         "type": "printer",
         "path": "printer/Original Prusa MK4 1.8 nozzle.ini",
         "id": "Original Prusa MK4 1.8 nozzle",
-        "label": "Original Prusa MK4 1.8 nozzle"
+        "label": "Original Prusa MK4 1.8mm nozzle"
     },
     {
         "type": "print",
         "path": "print/0.50 mm NORMAL (0.8 mm nozzle) @CREALITY.ini",
-        "id": "0.50 mm NORMAL (0.8 mm nozzle) @CREALITY",
-        "label": "0.50 mm NORMAL (0.8 mm nozzle) @CREALITY"
+        "id": "0.50 mm NORMAL @CREALITY 0.8",
+        "label": "0.50 mm NORMAL @CREALITY 0.8"
     },
     {
         "type": "print",
         "path": "print/0.30 mm STANDARD (0.6 mm nozzle) @CREALITY.ini",
-        "id": "0.30 mm STANDARD (0.6 mm nozzle) @CREALITY",
-        "label": "0.30 mm STANDARD (0.6 mm nozzle) @CREALITY"
+        "id": "0.30mm STANDARD @CREALITY 0.6",
+        "label": "0.30mm STANDARD @CREALITY 0.6"
     },
     {
         "type": "print",
@@ -134,8 +134,8 @@
     {
         "type": "print",
         "path": "print/0.30 mm STANDARD (0.6 mm nozzle) @GIGA.ini",
-        "id": "0.30 mm STANDARD (0.6 mm nozzle) @GIGA",
-        "label": "0.30 mm STANDARD (0.6 mm nozzle) @GIGA"
+        "id": "0.30mm STANDARD @GIGA 0.6",
+        "label": "0.30mm STANDARD @GIGA 0.6"
     },
     {
         "type": "print",
@@ -152,8 +152,8 @@
     {
         "type": "print",
         "path": "print/0.20mm SPEED @MK3.ini",
-        "id": "0.20mm SPEED @MK3",
-        "label": "0.20mm SPEED @MK3"
+        "id": "0.20mm SPEED @MK3 0.4",
+        "label": "0.20mm SPEED @MK3 0.4"
     },
     {
         "type": "print",
@@ -164,7 +164,7 @@
     {
         "type": "print",
         "path": "print/1mm QUALITY @MK4 1.8 nozzle.ini",
-        "id": "1mm QUALITY @MK4 1.8 nozzle",
-        "label": "1mm QUALITY @MK4 1.8 nozzle"
+        "id": "1mm QUALITY @MK4 1.8",
+        "label": "1mm QUALITY @MK4 1.8"
     }
 ]
