@@ -44,8 +44,8 @@
     {
         "type": "printer",
         "path": "printer/Original Prusa i3 MK3S & MK3S+.ini",
-        "id": "Original Prusa i3 MK3S & MK3S+",
-        "label": "Original Prusa i3 MK3S & MK3S+"
+        "id": "Original Prusa i3 MK3S & MK3S+ 0.4mm nozzle",
+        "label": "Original Prusa i3 MK3S & MK3S+ 0.4mm nozzle"
     },
     {
         "type": "printer",
