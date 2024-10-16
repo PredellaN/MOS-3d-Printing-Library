@@ -85,6 +85,11 @@
         "label": "Original Prusa MK4 (1.8mm nozzle)"
     },
     {
+        "type": "printer",
+        "path": "printer/Original Prusa XL - 2T Input Shaper 0.4 nozzle - Copy.ini",
+        "label": "Original Prusa XL - 2T Input Shaper 0.4 nozzle"
+    },
+    {
         "type": "print",
         "path": "print/0.50 mm NORMAL (0.8 mm nozzle) @CREALITY.ini",
         "label": "0.50mm Normal (0.8mm nozzle) @Creality"
@@ -143,5 +148,10 @@
         "type": "print",
         "path": "print/1mm QUALITY @MK4 1.8 nozzle.ini",
         "label": "1mm Quality @MK4 (1.8mm nozzle)"
+    },
+    {
+        "type": "print",
+        "path": "print/0.20mm SPEED @XLIS 0.4 - Copy",
+        "label": "0.20mm SPEED @XLIS 0.4"
     }
 ]
