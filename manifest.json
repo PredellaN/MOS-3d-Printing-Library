@@ -151,7 +151,7 @@
     },
     {
         "type": "print",
-        "path": "print/0.20mm SPEED @XLIS 0.4 - Copy",
+        "path": "print/0.20mm SPEED @XLIS 0.4 - Copy.ini",
         "label": "0.20mm SPEED @XLIS 0.4"
     }
 ]
