@@ -25,7 +25,7 @@ def generate_json_structure(base_directory):
                     json_entry = {
                         "type": category,
                         "path": file_path,
-                        "label": file_id
+                        "label": file_id.replace(" - Copy", "")
                     }
                     
                     json_data.append(json_entry)
