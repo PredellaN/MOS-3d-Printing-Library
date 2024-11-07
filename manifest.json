@@ -101,6 +101,11 @@
     },
     {
         "type": "print",
+        "path": "print/0.20 mm STANDARD (0.4 mm nozzle) @CREALITY.ini",
+        "label": "0.20mm Standard (0.4mm nozzle) @Creality"
+    },
+    {
+        "type": "print",
         "path": "print/0.20mm SPEED @MK4IS 0.4 - Copy.ini",
         "label": "0.20mm Speed @MK4IS (0.4mm nozzle)"
     },
