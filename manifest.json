@@ -101,7 +101,7 @@
     },
     {
         "type": "print",
-        "path": "0.20 mm NORMAL (0.4 mm nozzle) @CRM4",
+        "path": "print/0.20 mm NORMAL (0.4 mm nozzle) @CRM4",
         "label": "0.20mm Standard (0.4mm nozzle) @Creality"
     },
     {
