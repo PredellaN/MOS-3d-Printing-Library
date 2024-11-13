@@ -11,6 +11,16 @@
     },
     {
         "type": "filament",
+        "path": "filament/Generic PLA @XLIS - MOS.ini",
+        "label": "Generic PLA @XL - MOS"
+    },
+    {
+        "type": "filament",
+        "path": "filament/Generic PETG @XL - MOS.ini",
+        "label": "Generic PETG @XL - MOS"
+    },
+    {
+        "type": "filament",
         "path": "filament/Generic PLA.ini",
         "label": "Generic PLA"
     },
