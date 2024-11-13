@@ -31,16 +31,6 @@
     },
     {
         "type": "printer",
-        "path": "printer/Original Prusa MK4 Input Shaper 0.4 nozzle - Copy.ini",
-        "label": "Original Prusa MK4 Input Shaper (0.4mm nozzle)"
-    },
-    {
-        "type": "printer",
-        "path": "printer/Original Prusa i3 MK3S & MK3S+ - Copy.ini",
-        "label": "Original Prusa i3 MK3S & MK3S+ (0.4mm nozzle)"
-    },
-    {
-        "type": "printer",
         "path": "printer/Concrete Printer.ini",
         "label": "Concrete Printer (0.4mm nozzle)"
     },
@@ -83,11 +73,6 @@
         "type": "printer",
         "path": "printer/Original Prusa MK4 1.8 nozzle.ini",
         "label": "Original Prusa MK4 (1.8mm nozzle)"
-    },
-    {
-        "type": "printer",
-        "path": "printer/Original Prusa XL - 2T Input Shaper 0.4 nozzle - Copy.ini",
-        "label": "Original Prusa XL - 2T Input Shaper 0.4 nozzle"
     },
     {
         "type": "print",
